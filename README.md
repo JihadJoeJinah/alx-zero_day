@@ -1,2 +1,2 @@
-My first readme
-README  update your file README.md in the main branch from GitHub.com.
+another readme for 0x03-git
+README update from github.com
